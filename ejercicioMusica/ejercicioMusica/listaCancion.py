@@ -4,7 +4,7 @@ import nodoCancion
 NC=nodoCancion
 class reproduccion(object):
     def __init__(self): # creo las etiquetas para orientar la lista
-        self.__primero=None
+        self.__primero=None # esto no se colocaa asiii!!!!!!!!! tonto, coloca otra cosa 
         self.__ultimo=None
         self.__cont=0
     def getVacio(self):# verificador de que si la lista esta vacia
