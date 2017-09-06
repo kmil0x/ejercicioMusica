@@ -2,7 +2,7 @@
 similar a una lista simple doble'''
 import nodoCancion
 NC=nodoCancion
-class reproduccion(object):
+class reproduccion(object): #holi
     def __init__(self): # creo las etiquetas para orientar la lista
         self.__primero=None
         self.__ultimo=None
